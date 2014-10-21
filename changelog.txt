@@ -1,0 +1,14 @@
+###### TODO #####
+-fix darkrp_modules/voterestrictions/-sv_init.lua to include all jobs
+-add a dedicated tab in the f4 menu for am/pm and mcking teams so food shows up there instead of the "weapons" tab
+-create a localhost website for when connecting to the server (?)
+-get the PlayerSpawn call from TEAM_CITIZEN maybe jobs.lua exension?
+-create tier'd money printers
+### CHANGELOG ###
+20/9/14: Fixed Law Board spelling of "lisence".
+13/9/14: Re-enabled custom jobs.
+12/9/14: Added Map-dependent jobs.
+28/8/14: Fixed generalSpawn to be map specific.
+25/8/14: All teams but TEAM_CITIZEN now spawn at generalSpawn location
+24/8/14: Added Mayor demotion (and ban from job for 5 minutes) on death.
+24/8/14: Dropbox created. Changelog created. Junctions created. Hello, World!
